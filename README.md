@@ -3,10 +3,9 @@ Simple, Fast, No need to use proxy kind of hard thingy
 
 
 ## Table of contents
-1. [Table of contents](https://github.com/J3ldo/UGC-Sniper#Table-of-contents)
-2. [Premium](https://github.com/J3ldo/UGC-Sniper#Premium)
-3. [Features](https://github.com/J3ldo/UGC-Sniper#features)
-4. [How to use](https://github.com/J3ldo/UGC-Sniper#how-to-use)
+1. [Table of contents](https://github.com/1Devz/UGC_LIMITED_SNIPER#Table-of-contents)
+2. [Features](https://github.com/1Devz/UGC_LIMITED_SNIPER#features)
+3. [How to use](https://github.com/1Devz/UGC_LIMITED_SNIPER#how-to-use)
   
 Search for free limiteds and checks prices way faster.
 Search items based on RAP, Projection detection, alt account support, buying every limited with a price under 50 robux, blacklisted keywords, checking 119 limiteds in 0,75 seconds (no proxies), dynamic pricing of limited, and way more. 
