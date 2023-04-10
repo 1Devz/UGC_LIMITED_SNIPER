@@ -19,7 +19,7 @@ def get_x_token():
 
     x_token = r.post("https://auth.roblox.com/v2/logout",
                      cookies={".ROBLOSECURITY": cookie}).headers["x-csrf-token"]
-    print("Logged in.")
+    print("Logged in Successfully!")
 
     while 1:
         # Gets the x_token every 4 minutes.
@@ -29,7 +29,7 @@ def get_x_token():
 
 
 def buy(json, itemid, productid):
-    print("Spam buying limited...")
+    print("Spamming Buying limited...")
 
     data = {
         "collectibleItemId": itemid,
@@ -49,7 +49,7 @@ def buy(json, itemid, productid):
             headers={"x-csrf-token": x_token}, cookies={".ROBLOSECURITY": cookie})
 
         if bought.reason == "Too Many Requests":
-            print("Ran into a ratelimit resuming trying again shortly...")
+            print("Too Many Requests! Try again.")
             time.sleep(0.5)
             continue
 
